@@ -1,9 +1,6 @@
 #include<iostream>
 #include<vector>
-using namespace std;
-
-//d
-
+using namespace std;//ahmed alaa
 int main() {
     int t;
     cin >> t;
