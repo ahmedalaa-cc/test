@@ -12,7 +12,7 @@ int main() {
         for (int i = 0; i < n; i++) {
             cin >> x >> y;
             if (y == 1) {
-                cnt++;
+                cnt++;//cnt++
             }
         }
         cout << cnt * 2 << endl;
